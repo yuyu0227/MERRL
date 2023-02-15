@@ -1,0 +1,5 @@
+Amazon reviews dataset can be downloaded from:
+https://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+
+Training (src) data: dvd, kitchen and books from processed_acl.tar.gz
+Test: unprocessed.tar.gz
